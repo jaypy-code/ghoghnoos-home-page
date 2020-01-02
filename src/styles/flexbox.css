@@ -1,0 +1,39 @@
+.flex {
+    display: flex;
+}
+
+.flex-space,
+.flex-spacer{
+    flex: 1 1 auto;
+}
+
+.flex.wrap {
+    flex-wrap: wrap;
+}
+
+.flex.wrap.reverse{
+    flex-wrap: wrap-reverse;
+}
+
+.flex.nowrap {
+    flex-wrap: nowrap;
+}
+
+.flex.column {
+    flex-direction: column;
+}
+
+.flex.cai,
+.flex.c-ai {
+    align-items: center;
+}
+
+.flex.sai,
+.flex.s-ai{
+    align-items: flex-start;
+}
+
+.flex.cjc,
+.flex.c-jc {
+    justify-content: center;
+}

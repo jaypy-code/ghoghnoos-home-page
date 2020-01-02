@@ -1,0 +1,45 @@
+{
+    "festival": [
+        {
+            "name": "زمرد",
+            "speed": "4096",
+            "time": 1,
+            "volume": {
+                "in": "5",
+                "out": "10"
+            },
+            "each": null,
+            "price": 16350
+        }, {
+            "name": "زمرد",
+            "speed": "4096",
+            "time": 3,
+            "volume": {
+                "in": "20",
+                "out": "40"
+            },
+            "each": null,
+            "price": 49050
+        }, {
+            "name": "الماس",
+            "speed": "8192",
+            "time": 1,
+            "volume": {
+                "in": "5",
+                "out": "10"
+            },
+            "each": null,
+            "price": 21800
+        }, {
+            "name": "الماس",
+            "speed": "8192",
+            "time": 3,
+            "volume": {
+                "in": "20",
+                "out": "40"
+            },
+            "each": null,
+            "price": 70850
+        }
+    ]
+}
